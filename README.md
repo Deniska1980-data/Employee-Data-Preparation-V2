@@ -5,7 +5,7 @@
 | 🇬🇧 English | 🇨🇿 Česky |
 |------------|-----------|
 
-| ## Overview | ## Přehled |
+| ## **Overview** | ## **Přehled** |
 
 | This version extends the previous Employee Data Preparation workflow by adding a Power Apps Canvas App. Instead of starting the automation directly from Power Automate, users can now launch the entire process with a single button inside the application. | Tato verze rozšiřuje předchozí workflow Employee Data Preparation o aplikaci Power Apps Canvas App. Místo ručního spuštění z Power Automate lze nyní celý proces spustit jediným tlačítkem přímo z aplikace. |
 | The solution demonstrates an end-to-end integration between Power Apps, Power Automate, Office Scripts, Excel Online and Microsoft Teams. | Řešení ukazuje kompletní integraci mezi Power Apps, Power Automate, Office Scripts, Excel Online a Microsoft Teams. |
@@ -34,7 +34,7 @@ Microsoft Teams Notification
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |------------|-----------|
-| ## Workflow | ## Průběh |
+| ## **Workflow** | ## **Průběh** |
 | 1. User opens the Power Apps application. | 1. Uživatel otevře aplikaci Power Apps. |
 | 2. The **Prepare Employee Data** button starts a Power Automate flow. | 2. Tlačítko **Prepare Employee Data** spustí Power Automate Flow. |
 | 3. The flow runs an Office Script in Excel Online. | 3. Flow spustí Office Script v Excel Online. |
