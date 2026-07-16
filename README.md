@@ -1,6 +1,6 @@
 # Employee Data Preparation V2 – Power Apps Integration / Employee Data Preparation V2 – Integrace Power Apps
 
-![Employee Data Preparation](employeee_data_preparation_komplexni_reseni.png)
+![Employee Data Preparation](employee_data_preparation_komplexni_reseni.png)
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |------------|-----------|
